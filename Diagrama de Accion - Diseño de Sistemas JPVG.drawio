@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="0k5l3IZuOsfRlxOS7Yak">
+    <mxGraphModel dx="1012" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="542f16_IJWm72B-tZLkn-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="530" width="10" x="210" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RECIBIR Y REGISTRAR DOCUMENTO" vertex="1">
+          <mxGeometry height="30" width="260" x="200" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;INTRODUCIR DATOS DEL DOCUMENTO&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="210" x="225" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;RECIBIR DOCUMENTOS&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="210" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MIENTRAS los datos esten incompletos o no se cumplan las condicones" vertex="1">
+          <mxGeometry height="30" width="410" x="245" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="410" width="10" x="225" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="410" width="10" x="235" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VERIFICAR datos y requisitos" vertex="1">
+          <mxGeometry height="30" width="290" x="220" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SI&lt;/font&gt;&lt;/b&gt; datos incompletos o no cumplen" vertex="1">
+          <mxGeometry height="30" width="210" x="290" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-11" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="255" width="10" x="280" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Completar informacion y anexos" vertex="1">
+          <mxGeometry height="30" width="190" x="310" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Volver a verficar datos y demas" vertex="1">
+          <mxGeometry height="30" width="180" x="320" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;SINO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="652.5" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Registrar documento" vertex="1">
+          <mxGeometry height="30" width="120" x="320" y="682.5" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Asignar no. de referencia" vertex="1">
+          <mxGeometry height="30" width="160" x="315" y="712.5" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Guardar en la base de datos o programa" vertex="1">
+          <mxGeometry height="30" width="225" x="320" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Registar usuario_responsable y feha_recepcion" vertex="1">
+          <mxGeometry height="30" width="280" x="260" y="815" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Estado_documento = &quot;recibido&quot;" vertex="1">
+          <mxGeometry height="30" width="210" x="250" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Generar oficio/acta o constancia de recepcion" vertex="1">
+          <mxGeometry height="30" width="260" x="234" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="542f16_IJWm72B-tZLkn-26" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.535" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="641" />
+            </Array>
+            <mxPoint x="630" y="641" as="sourcePoint" />
+            <mxPoint x="280" y="641" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
